@@ -4,7 +4,15 @@ A company app based React-Naive for demo purpose (Available in Andorid, iOS late
 
 ## APP PREVIEW
 
+![gif](http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-GIF.gif)
+
+[][!http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-GIF.gif]
+
 ## SCREENSHOTS
+
+[][!http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-pick20160706162657.png]
+
+![Home page](http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-pick20160706162657.png)
 
 ## REACT and REACT NATIVE VERSION
 
@@ -15,23 +23,29 @@ A company app based React-Naive for demo purpose (Available in Andorid, iOS late
 
 ##### Clone & Install
 
-1. ```shell
-   git clone git@github.com:compApp/compApp2016.git
-   ```
+* ```shell
+  git clone git@github.com:compApp/compApp2016.git
+  ```
 
-2. ```shell
-   cd compApp
-   ```
 
-3. ```shell
-   npm install
-   ```
+* ```shell
+  cd compApp
+  ```
+
+
+* ```shell
+  npm install
+  ```
+
+  ​
 
 ##### Android
 
 * ```shell
   react-native run-android
   ```
+
+  ​
 
 ##### iOS
 
@@ -40,4 +54,3 @@ A company app based React-Naive for demo purpose (Available in Andorid, iOS late
   ```
 
   ​
-

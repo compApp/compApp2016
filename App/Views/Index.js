@@ -8,7 +8,7 @@ import Nav from '../Components/Nav/Nav';
 
 import QR from './QRScan/QR';
 import User from './UserManager/User';
-import Home from './Home';
+import Home from './Home/Home';
 
 export default class Index extends Component{
     // 构造

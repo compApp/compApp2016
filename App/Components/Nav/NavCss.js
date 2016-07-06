@@ -24,27 +24,31 @@ export const styles = {
         width: width
     },
     navbar: {
-        height: 80,
+        height: 98,
         backgroundColor: '#fff',
         flexDirection: 'row',
         borderTopColor: '#b2b2b2',
-        borderTopWidth: 1/PR
+        borderTopWidth: 1
     },
     navli: {
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center'
     },
-    navlitxt: {
-        color: '#666',
-        fontSize: 12,
-
-    },
-    navlitxtcurrent: {
-        color: '#ff6600'
-    },
     navliimage: {
         width: 45,
         height: 45
+    },
+    header: {
+        height: 88,
+        backgroundColor: '#fb4747',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center'
+    },
+    headertext: {
+        color: '#fff',
+        fontSize: 28
     }
 };
+

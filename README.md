@@ -6,11 +6,7 @@ A company app based React-Naive for demo purpose (Available in Andorid, iOS late
 
 ![gif](http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-GIF.gif)
 
-[][!http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-GIF.gif]
-
 ## SCREENSHOTS
-
-[][!http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-pick20160706162657.png]
 
 ![Home page](http://7mnlnt.com1.z0.glb.clouddn.com/qiniu-pick20160706162657.png)
 
@@ -18,39 +14,22 @@ A company app based React-Naive for demo purpose (Available in Andorid, iOS late
 
 * react: 15.0.2
 * react-native: 0.26.0
+* react-native-viewpager: 0.2.11
 
 ## RUNNING
 
 ##### Clone & Install
 
-* ```shell
-  git clone git@github.com:compApp/compApp2016.git
-  ```
+* git clone git@github.com:compApp/compApp2016.git
 
+* cd compApp
 
-* ```shell
-  cd compApp
-  ```
-
-
-* ```shell
-  npm install
-  ```
-
-  ​
+* npm install
 
 ##### Android
 
-* ```shell
-  react-native run-android
-  ```
-
-  ​
+* react-native run-android
 
 ##### iOS
 
-* ```shell
-  react-native run-iOS
-  ```
-
-  ​
+* react-native run-iOS
